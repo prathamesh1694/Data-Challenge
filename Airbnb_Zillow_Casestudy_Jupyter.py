@@ -560,7 +560,7 @@ ax1.legend(handles = l_handle,prop={'size': 20})
 
 # It can be clearly inferred that property prices in Manhatten are extremely high as compared to other neighbourhoods. We will need to visualize other graphs to actually check if such a big investment will actually be profitable with short term rentals.<br>
 
-# ## Mean airbnb prices across zipcodes
+# ## Median airbnb prices across zipcodes
 
 # In[52]:
 
