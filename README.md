@@ -15,7 +15,7 @@ To analyse Airbnb and Zillow data and determine which zip codes would generate t
 (b)	Median yearly revenue in each zip code/number of years to recover investment in each zip code
 2.	The higher the ratio of particular zip codes, were selected to further analyse based on amount of data available, number of Airbnb listings available in that particular zip code, neighbourhood, 30-year summaries of zip codes.
 •	Conclusion
-8.	1 - I identify 5 Zip codes (Manhattan [10022, 10023, 10036], Brooklyn [11234], Queens[11434]) based on sufficient data, recovery years, yearly revenue, investment cost and Airbnb prices that would generate the most profit.
+1 - I identify 5 Zip codes (Manhattan [10022, 10023, 10036], Brooklyn [11234], Queens[11434]) based on sufficient data, recovery years, yearly revenue, investment cost and Airbnb prices that would generate the most profit.
 2 - Looking at all the charts, we can say that if one wants to recover their investment the fastest, investing in Brooklyn and Queens will be the most accurate option. Because these zip codes require less investment and give a good ROI in the future years.
 3 - Investing in Manhattan requires on an average 10 years more than Brooklyn and queens to recover the investment but the profit earned in future years is substantially high than Brooklyn and queens. Manhattan being the prime hub for tourists results in higher Airbnb prices. 
 4 - Although investing in Staten Island seems exciting due to faster recovery based on the graphs, we have to consider that we do not have enough data for short term rentals in those zip codes. Thus, one should avoid investing in Staten Island until we can find more data on those zip codes.
